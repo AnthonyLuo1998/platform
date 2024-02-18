@@ -10,6 +10,7 @@ export const BoardWrap = styled.div`
     height: 48px;
     font-size: 24px;
     overflow: hidden;
+    /*  */
   }
 
   .board-wrap-operator {
