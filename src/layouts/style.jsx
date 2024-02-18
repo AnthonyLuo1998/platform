@@ -25,6 +25,7 @@ export const LayoutWrap = styled.div`
   .layout_content_warp {
     flex: 1;
     height: 100%;
+    overflow: auto;
     /* background-color: skyblue; */
   }
 `;
