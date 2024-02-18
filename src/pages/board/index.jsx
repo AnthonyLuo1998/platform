@@ -15,7 +15,6 @@ function Board() {
 
   const [curBoard, setCurBoard] = useState(null);
 
-  const hhh = useState(123)
 
 
   const [form] = Form.useForm();
